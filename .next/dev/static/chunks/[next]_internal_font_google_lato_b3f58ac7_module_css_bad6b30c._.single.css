@@ -1,0 +1,16 @@
+/* [next]/internal/font/google/lato_b3f58ac7.module.css [app-client] (css) */
+@font-face {
+  font-family: Lato Fallback;
+  src: local(Arial);
+  ascent-override: 101.03%;
+  descent-override: 21.8%;
+  line-gap-override: 0.0%;
+  size-adjust: 97.69%;
+}
+
+.lato_b3f58ac7-module__QDklWa__className {
+  font-family: Lato, Lato Fallback;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_lato_b3f58ac7_module_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,3452 @@
+[00:00:01.874] Server  LOG      ✓ Ready in 1281ms
+[00:00:05.970] Server  LOG      ○ Compiling / ...
+[00:00:06.710] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:00:06.711] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:00:06.711] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:00:06.711] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:00:07.375] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:00:07.376] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:00:07.376] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:00:07.376] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:00:07.415] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:07.637] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:07.637] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:07.637] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765007442097}
+[00:01:54.986] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:01:54.987] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:01:54.988] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:01:54.989] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:01:55.091] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:01:55.092] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:01:55.093] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:01:55.093] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:01:55.290] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/gallery color: rgb(120, 120, 120) color: inherit {"dp":"/gallery","o":"http://localhost:3000/gallery","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765007551372}
+[00:01:56.488] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765007552563}
+[00:21:30.452] Server  LOG      ✓ Compiled in 201ms
+[00:21:39.717] Server  LOG      ✓ Compiled in 91ms
+[00:22:06.468] Server  LOG      ✓ Compiled in 84ms
+[00:22:31.073] Server  LOG      ✓ Compiled in 105ms
+[00:24:36.406] Server  LOG      ✓ Compiled in 75ms
+[00:25:55.209] Server  LOG      ✓ Compiled in 105ms
+[00:26:01.934] Server  LOG      ✓ Compiled in 147ms
+[00:26:07.120] Server  LOG      ✓ Compiled in 64ms
+[00:26:14.266] Server  LOG      ✓ Compiled in 69ms
+[00:26:16.453] Server  LOG      ✓ Compiled in 99ms
+[00:28:22.671] Server  LOG      ✓ Compiled in 70ms
+[00:28:31.119] Server  LOG      ✓ Compiled in 100ms
+[00:29:17.450] Server  LOG      ✓ Compiled in 66ms
+[00:29:18.846] Server  LOG      ✓ Compiled in 74ms
+[00:29:32.569] Server  LOG      ✓ Compiled in 68ms
+[00:30:30.907] Server  LOG      ✓ Compiled in 48ms
+[00:31:57.813] Server  LOG      ✓ Compiled in 62ms
+[00:31:59.266] Server  LOG      ✓ Compiled in 64ms
+[00:34:01.365] Server  LOG      ✓ Compiled in 97ms
+[00:34:34.605] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:34.606] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:34.607] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:34.607] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:38.381] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:38.382] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:38.382] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:38.383] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:40.296] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:40.297] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:40.297] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:40.298] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:40.983] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:40.984] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:40.984] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:40.985] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:42.312] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:42.313] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:42.313] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:42.314] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:43.108] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:43.109] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:43.110] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:43.110] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:43.278] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/gallery color: rgb(120, 120, 120) color: inherit {"dp":"/gallery","o":"http://localhost:3000/gallery","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765009519357}
+[00:34:46.831] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:46.832] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:46.833] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:46.833] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:47.049] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765009523126}
+[00:34:47.593] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:47.593] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:47.594] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:47.595] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:52.492] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:52.492] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:52.493] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:52.493] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:52.889] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:52.890] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:52.891] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:52.891] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:54.212] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:54.213] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:54.213] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:54.214] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:54.622] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:54.622] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:54.623] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:54.623] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:54.812] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:54.813] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:54.814] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:54.815] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:56.255] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:56.256] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:56.256] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:56.257] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:56.408] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/gallery color: rgb(120, 120, 120) color: inherit {"dp":"/gallery","o":"http://localhost:3000/gallery","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765009532486}
+[00:34:57.441] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:57.441] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:57.442] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:57.443] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:57.652] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765009533732}
+[00:34:58.285] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:58.286] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:34:58.287] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:34:58.287] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:15.417] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:15.418] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:15.418] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:15.419] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:17.499] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:17.499] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:17.500] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:17.503] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:22.288] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:22.289] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:22.289] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:22.290] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:27.026] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:27.026] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:27.027] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:27.028] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:39.712] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:39.713] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:39.714] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:39.714] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:45.603] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:45.604] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:45.604] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:45.605] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:48.782] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:48.783] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:48.783] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:48.783] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:50.920] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:50.921] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:50.921] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:50.922] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:54.513] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:54.514] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:54.514] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:54.514] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:56.881] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:56.882] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:35:56.882] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:35:56.882] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:36:02.240] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:36:02.241] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:36:02.241] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:36:02.242] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:36:23.785] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:36:23.785] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:36:23.786] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:36:23.786] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:36:28.193] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:36:28.193] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:36:28.194] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:36:28.194] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:37:29.765] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:37:29.766] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:37:29.766] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:37:29.766] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:37:36.600] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:37:36.600] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:37:36.601] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:37:36.602] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:08.045] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:08.045] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:08.046] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:08.046] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:26.454] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:26.455] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:26.456] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:26.456] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:43.543] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:43.544] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:43.544] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:43.545] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:46.714] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:46.715] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:46.716] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:46.716] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:51.127] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:51.128] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:51.129] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:51.129] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:52.315] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:52.316] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:52.317] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:52.317] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:57.381] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:57.381] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:38:57.382] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:38:57.383] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:22.772] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:22.772] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:22.773] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:22.774] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:23.978] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:23.979] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:23.980] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:23.981] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:33.713] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:33.714] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:33.715] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:33.715] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:47.112] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:47.113] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:47.114] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:47.114] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:47.260] Server  ERROR   D:\my-application\wine-product-page\.next\dev\server\chunks\ssr\[root-of-the-server]__3718177f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:47.266] Server  ERROR    ⨯ ReferenceError: Mail is not defined
+[00:39:47.587] Browser ERROR   uncaughtError: ReferenceError: Mail is not defined
+[00:39:52.581] Browser ERROR   ./components/footer.tsx:1:25
+Parsing ecmascript source code failed
+> 1 | import { MapPin, Phone, <Instagram></Instagram>, Wine } from "lucide-react"
+    |                         ^
+  2 | import Link from "next/link"
+  3 |
+  4 | export default function Footer() {
+
+Unexpected token `<`. Expected identifier or string
+
+Import trace:
+  Server Component:
+    ./components/footer.tsx
+    ./app/page.tsx
+[00:39:54.588] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:54.589] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:54.590] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:54.590] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:54.632] Server  ERROR   D:\my-application\wine-product-page\.next\dev\server\chunks\ssr\[root-of-the-server]__3718177f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:54.634] Server  ERROR    ⨯ ReferenceError: Mail is not defined
+[00:39:55.109] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:55.109] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:55.110] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:55.110] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:55.111] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:55.111] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:55.112] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:39:55.112] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:39:55.141] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:56.575] Browser ERROR   uncaughtError: ReferenceError: Mail is not defined
+[00:39:56.575] Browser ERROR   uncaughtError: TypeError: Failed to execute 'measure' on 'Performance': '​Footer' cannot have a negative time stamp.
+[00:40:07.421] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:07.422] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:07.423] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:07.427] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:08.244] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:08.245] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:08.246] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:08.246] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:08.246] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:08.247] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:08.247] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:08.248] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:08.287] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:08.489] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:40:08.489] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:40:08.489] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765009844570}
+[00:40:38.781] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:38.782] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:38.783] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:38.783] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:43.368] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:43.369] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:43.369] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:43.370] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:48.189] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:48.190] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:48.190] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:48.191] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:55.523] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:55.523] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:40:55.524] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:40:55.525] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:41:21.136] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:41:21.136] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:41:21.137] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:41:21.138] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:41:21.811] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:41:21.812] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:41:21.812] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:41:21.813] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:41:29.600] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:41:29.601] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:41:29.602] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:41:29.602] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:42:23.755] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:42:23.756] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:42:23.756] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:42:23.759] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:42:46.441] Server  LOG      ✓ Compiled in 121ms
+[00:45:30.117] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:45:30.118] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:45:30.119] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:45:30.119] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:45:33.525] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:45:33.526] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:45:33.527] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:45:33.528] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:45:58.375] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:45:58.376] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:45:58.377] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:45:58.378] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:02.717] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:02.718] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:02.719] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:02.719] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:08.289] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:08.290] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:08.290] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:08.291] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:09.750] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:09.751] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:09.752] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:09.752] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:14.923] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:14.924] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:14.924] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:14.925] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:18.774] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:18.775] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:18.775] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:18.776] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:23.401] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:23.402] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:23.403] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:23.403] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:25.042] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:25.043] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:25.044] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:25.044] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:29.542] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:29.543] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:29.543] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:29.544] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:31.154] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:31.155] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:31.156] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:31.156] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:32.490] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:32.491] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:32.491] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:32.492] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:35.177] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:35.178] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:46:35.178] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:46:35.179] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:47:08.267] Server  LOG      ✓ Compiled in 95ms
+[00:47:36.292] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:47:36.293] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:47:36.293] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:47:36.294] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:48:15.316] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:48:15.317] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:48:15.318] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:48:15.319] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:48:51.693] Server  LOG      ✓ Compiled in 193ms
+[00:49:04.377] Server  LOG      ✓ Compiled in 206ms
+[00:49:17.819] Server  LOG      ✓ Compiled in 273ms
+[00:49:34.336] Server  LOG      ✓ Compiled in 117ms
+[00:50:35.309] Server  LOG      ✓ Compiled in 129ms
+[00:50:37.481] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:50:37.482] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
+[00:50:37.483] Server  WARN     ⚠ [next]/internal/font/google/lato_b3f58ac7.module.css
+next/font: warning:
+Failed to download `Lato` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/lato_b3f58ac7.module.css
+    [next]/internal/font/google/lato_b3f58ac7.js
+    ./app/layout.tsx
+
+
+[00:50:37.483] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_dc3b86c2.module.css
+    [next]/internal/font/google/playfair_display_dc3b86c2.js
+    ./app/layout.tsx
+
+
