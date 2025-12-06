@@ -12,7 +12,13 @@ export const metadata: Metadata = {
   title: "Wine & Spirits | Premium Wine Collection",
   description:
     "Your premium destination for fine wines and spirits. Discover our curated selection from around the world.",
-    generator: 'v0.app'
+
+  // 🔥 ADD THIS PART
+  icons: {
+    icon: "/favicon.ico",      // atau /favicon.png
+    shortcut: "/favicon.ico",
+    apple: "/favicon.png",
+  },
 }
 
 export default function RootLayout({
