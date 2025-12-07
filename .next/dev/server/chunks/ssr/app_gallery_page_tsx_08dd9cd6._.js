@@ -21,32 +21,32 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$re
 const galleryImages = [
     {
         id: 1,
-        src: "/luxury-karaoke-room-with-neon-lights-and-leather-s.jpg",
-        title: "VIP Karaoke Room",
+        src: "/g1.webp",
+        title: "Karaoke Room",
         category: "Karaoke"
     },
     {
         id: 2,
-        src: "/elegant-lounge-bar-with-ambient-lighting-and-moder.jpg",
+        src: "/g2.webp",
         title: "Main Lounge",
         category: "Lounge"
     },
     {
         id: 3,
-        src: "/private-karaoke-room-with-disco-ball-and-sound-sys.jpg",
-        title: "Private Karaoke Suite",
+        src: "/g3.webp",
+        title: "Karaoke Room",
         category: "Karaoke"
     },
     {
         id: 4,
-        src: "/upscale-wine-bar-lounge-with-bar-counter-and-wine-.jpg",
-        title: "Wine Bar Lounge",
-        category: "Lounge"
+        src: "/g4.webp",
+        title: "Karaoke Room",
+        category: "Karaoke"
     },
     {
         id: 5,
-        src: "/modern-karaoke-room-with-led-screens-and-comfortab.jpg",
-        title: "Deluxe Karaoke Room",
+        src: "/g5.webp",
+        title: "Karaoke Room",
         category: "Karaoke"
     }
 ];
@@ -63,7 +63,7 @@ function GalleryPage() {
                     className: "container mx-auto px-4 py-6",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                         href: "/",
-                        className: "inline-flex items-center gap-2 text-white/70 hover:text-[#c9a962] transition-colors text-sm",
+                        className: "inline-flex items-center gap-2 text-white/70 hover:text-[#f60700] transition-colors text-sm",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$left$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowLeft$3e$__["ArrowLeft"], {
                                 className: "w-4 h-4",
@@ -112,7 +112,7 @@ function GalleryPage() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "w-24 h-[1px] bg-[#c9a962] mx-auto"
+                            className: "w-24 h-[1px] bg-[#f60700] mx-auto"
                         }, void 0, false, {
                             fileName: "[project]/app/gallery/page.tsx",
                             lineNumber: 69,
@@ -140,7 +140,7 @@ function GalleryPage() {
                             "Lounge"
                         ].map((tab)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                 onClick: ()=>setFilter(tab),
-                                className: `px-6 py-2 text-sm tracking-wide transition-all duration-300 border ${filter === tab ? "bg-[#c9a962] text-[#0a0a0a] border-[#c9a962]" : "bg-transparent text-white/70 border-white/20 hover:border-[#c9a962] hover:text-[#c9a962]"}`,
+                                className: `px-6 py-2 text-sm tracking-wide transition-all duration-300 border ${filter === tab ? "bg-[#f60700] text-[#0a0a0a] border-[#f60700]" : "bg-transparent text-white/70 border-white/20 hover:border-[#f60700] hover:text-[#f60700]"}`,
                                 children: tab
                             }, tab, false, {
                                 fileName: "[project]/app/gallery/page.tsx",
@@ -179,7 +179,7 @@ function GalleryPage() {
                                         className: "absolute bottom-0 left-0 right-0 p-6 translate-y-full group-hover:translate-y-0 transition-transform duration-300",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "text-[#c9a962] text-xs tracking-widest uppercase",
+                                                className: "text-[#f60700] text-xs tracking-widest uppercase",
                                                 children: image.category
                                             }, void 0, false, {
                                                 fileName: "[project]/app/gallery/page.tsx",
@@ -270,7 +270,7 @@ function GalleryPage() {
                                 className: "absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-black/80 to-transparent",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "text-[#c9a962] text-xs tracking-widest uppercase",
+                                        className: "text-[#f60700] text-xs tracking-widest uppercase",
                                         children: selectedImage.category
                                     }, void 0, false, {
                                         fileName: "[project]/app/gallery/page.tsx",

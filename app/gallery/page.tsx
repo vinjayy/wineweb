@@ -8,32 +8,32 @@ import { ArrowLeft, X } from "lucide-react"
 const galleryImages = [
   {
     id: 1,
-    src: "/luxury-karaoke-room-with-neon-lights-and-leather-s.jpg",
-    title: "VIP Karaoke Room",
+    src: "/g1.webp",
+    title: "Karaoke Room",
     category: "Karaoke",
   },
   {
     id: 2,
-    src: "/elegant-lounge-bar-with-ambient-lighting-and-moder.jpg",
+    src: "/g2.webp",
     title: "Main Lounge",
     category: "Lounge",
   },
   {
     id: 3,
-    src: "/private-karaoke-room-with-disco-ball-and-sound-sys.jpg",
-    title: "Private Karaoke Suite",
+    src: "/g3.webp",
+    title: "Karaoke Room",
     category: "Karaoke",
   },
   {
     id: 4,
-    src: "/upscale-wine-bar-lounge-with-bar-counter-and-wine-.jpg",
-    title: "Wine Bar Lounge",
-    category: "Lounge",
+    src: "/g4.webp",
+    title: "Karaoke Room",
+    category: "Karaoke",
   },
   {
     id: 5,
-    src: "/modern-karaoke-room-with-led-screens-and-comfortab.jpg",
-    title: "Deluxe Karaoke Room",
+    src: "/g5.webp",
+    title: "Karaoke Room",
     category: "Karaoke",
   },
 ]
@@ -51,7 +51,7 @@ export default function GalleryPage() {
         <div className="container mx-auto px-4 py-6">
           <Link
             href="/"
-            className="inline-flex items-center gap-2 text-white/70 hover:text-[#c9a962] transition-colors text-sm"
+            className="inline-flex items-center gap-2 text-white/70 hover:text-[#f60700] transition-colors text-sm"
           >
             <ArrowLeft className="w-4 h-4" strokeWidth={1.5} />
             Back to Home
@@ -66,7 +66,7 @@ export default function GalleryPage() {
           <p className="text-white/50 text-sm tracking-wide max-w-md mx-auto mb-6">
             Explore our premium karaoke rooms and luxurious lounge spaces
           </p>
-          <div className="w-24 h-[1px] bg-[#c9a962] mx-auto" />
+          <div className="w-24 h-[1px] bg-[#f60700] mx-auto" />
         </div>
       </div>
 
@@ -79,8 +79,8 @@ export default function GalleryPage() {
               onClick={() => setFilter(tab)}
               className={`px-6 py-2 text-sm tracking-wide transition-all duration-300 border ${
                 filter === tab
-                  ? "bg-[#c9a962] text-[#0a0a0a] border-[#c9a962]"
-                  : "bg-transparent text-white/70 border-white/20 hover:border-[#c9a962] hover:text-[#c9a962]"
+                  ? "bg-[#f60700] text-[#0a0a0a] border-[#f60700]"
+                  : "bg-transparent text-white/70 border-white/20 hover:border-[#f60700] hover:text-[#f60700]"
               }`}
             >
               {tab}
@@ -104,7 +104,7 @@ export default function GalleryPage() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
               <div className="absolute bottom-0 left-0 right-0 p-6 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
-                <span className="text-[#c9a962] text-xs tracking-widest uppercase">{image.category}</span>
+                <span className="text-[#f60700] text-xs tracking-widest uppercase">{image.category}</span>
                 <h3 className="text-white text-lg font-light tracking-wide mt-1">{image.title}</h3>
               </div>
               <div className="absolute top-4 right-4 w-10 h-10 border border-white/30 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
@@ -135,7 +135,7 @@ export default function GalleryPage() {
               className="object-contain"
             />
             <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-black/80 to-transparent">
-              <span className="text-[#c9a962] text-xs tracking-widest uppercase">{selectedImage.category}</span>
+              <span className="text-[#f60700] text-xs tracking-widest uppercase">{selectedImage.category}</span>
               <h3 className="text-white text-2xl font-light tracking-wide mt-1">{selectedImage.title}</h3>
             </div>
           </div>

@@ -37,7 +37,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$re
 ;
 function WhatsAppButton() {
     const handleClick = ()=>{
-        const phoneNumber = "6281234567890" // Replace with your WhatsApp number
+        const phoneNumber = "6281770865888" // Replace with your WhatsApp number
         ;
         const message = encodeURIComponent("Hi! I'm interested in your wine collection. Please assist me.");
         window.open(`https://wa.me/${phoneNumber}?text=${message}`, "_blank");

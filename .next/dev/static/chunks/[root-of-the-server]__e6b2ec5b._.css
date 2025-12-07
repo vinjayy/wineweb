@@ -1114,6 +1114,10 @@
     height: calc(var(--spacing) * 14);
   }
 
+  .h-16 {
+    height: calc(var(--spacing) * 16);
+  }
+
   .h-20 {
     height: calc(var(--spacing) * 20);
   }
@@ -1268,6 +1272,10 @@
 
   .w-14 {
     width: calc(var(--spacing) * 14);
+  }
+
+  .w-16 {
+    width: calc(var(--spacing) * 16);
   }
 
   .w-20 {
@@ -1727,6 +1735,10 @@
     overflow-y: auto;
   }
 
+  .rounded {
+    border-radius: .25rem;
+  }
+
   .rounded-\[2px\] {
     border-radius: 2px;
   }
@@ -1849,6 +1861,10 @@
   .border-\[\#c9a962\]\/30 {
     border-color: #c9a9624d;
     border-color: lab(70.9939% 5.52833 40.9073 / .3);
+  }
+
+  .border-\[\#f60700\] {
+    border-color: #f60700;
   }
 
   .border-\[\#f60700\]\/30 {

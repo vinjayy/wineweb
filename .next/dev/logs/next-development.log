@@ -1,56 +1,302 @@
-[00:00:02.540] Server  LOG      ✓ Ready in 1771ms
-[00:00:05.811] Server  LOG      ○ Compiling / ...
-[00:00:07.616] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:07.865] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:07.865] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:07.865] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765010891872}
-[00:00:36.454] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:36.671] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:36.671] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:36.671] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765010920675}
-[00:00:37.659] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:37.840] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:37.840] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:37.840] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765010921848}
-[00:00:44.856] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:44.856] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+[00:00:02.354] Server  LOG      ✓ Ready in 1584ms
+[00:00:05.568] Server  LOG      ○ Compiling / ...
+[00:00:07.570] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:07.810] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:07.810] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:07.810] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765121953417}
+[00:01:22.659] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:22.824] Browser WARN    Image with src "/DRAGON PHOENIX.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:22.824] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:22.824] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:01:22.824] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122028422}
+[00:01:29.235] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:29.383] Browser WARN    Image with src "/DRAGON PHOENIX.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:29.383] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:29.383] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:01:29.383] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122034989}
+[00:01:30.588] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:30.588] Browser WARN    Image with src "/DRAGON PHOENIX.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:30.739] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:30.739] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:01:30.739] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122036342}
+[00:01:57.548] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:57.713] Browser WARN    Image with src "/DRAGON PHOENIX.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:57.713] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:57.713] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:01:57.713] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122063308}
+[00:02:00.601] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:00.746] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:00.746] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:02:00.746] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122066350}
+[00:03:14.000] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:14.150] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:03:14.150] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:03:14.150] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122139756}
+[00:07:52.890] Server  ERROR   D:\my-application\wine-product-page\.next\dev\server\chunks\ssr\[root-of-the-server]__3718177f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:07:52.893] Server  ERROR    ⨯ ReferenceError: Instagram is not defined
+[00:07:53.625] Browser ERROR   uncaughtError: ReferenceError: Instagram is not defined
+[00:08:13.758] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:13.934] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:08:13.934] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:08:13.934] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122439538}
+[00:08:36.495] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/gallery color: rgb(120, 120, 120) color: inherit {"dp":"/gallery","o":"http://localhost:3000/gallery","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122462099}
+[00:10:05.912] Server  LOG      ✓ Compiled in 59ms
+[00:10:11.640] Server  LOG      ✓ Compiled in 49ms
+[00:11:00.458] Server  LOG      ✓ Compiled in 58ms
+[00:11:42.700] Server  LOG      ✓ Compiled in 54ms
+[00:11:48.806] Server  LOG      ✓ Compiled in 55ms
+[00:11:51.346] Server  LOG      ✓ Compiled in 47ms
+[00:11:54.571] Server  LOG      ✓ Compiled in 50ms
+[00:12:17.137] Server  LOG      ✓ Compiled in 48ms
+[00:12:18.597] Server  LOG      ✓ Compiled in 73ms
+[00:12:19.619] Browser ERROR   ./app/gallery/page.tsx:30:21
+Parsing ecmascript source code failed
+  28 |     id: 4,
+  29 |     src: "/upscale-wine-bar-lounge-with-bar-counter-and-wine-.jpg",
+> 30 |     title: "g4.webp"5
+     |                     ^
+  31 |     category: "Karaoke",
+  32 |   },
+  33 |   {
 
-- A server/client branch `if (typeof window !== 'undefined')`.
-- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
-- Date formatting in a user's locale which doesn't match the server.
-- External changing data without sending a snapshot of it along with the HTML.
-- Invalid HTML tag nesting.
+Expected ',', got 'numeric literal (5, 5)'
 
-It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
 
-https://react.dev/link/hydration-mismatch
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:12:19.963] Server  LOG      ✓ Compiled in 55ms
+[00:12:20.621] Browser ERROR   ./app/gallery/page.tsx:31:5
+Parsing ecmascript source code failed
+  29 |     src: "/upscale-wine-bar-lounge-with-bar-counter-and-wine-.jpg",
+  30 |     title: "g4.webp"
+> 31 |     category: "Karaoke",
+     |     ^^^^^^^^
+  32 |   },
+  33 |   {
+  34 |     id: 5,
 
-  ...
-    <RedirectBoundary>
-      <RedirectErrorBoundary router={{...}}>
-        <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
-          <SegmentViewNode type="page" pagePath="page.tsx">
-            <SegmentTrieNode>
-            <Home>
-              <main className="min-h-scre...">
-                <Header>
-                <HeroSlider>
-                <ProductGrid>
-                  <section id="products" className="bg-[#0f0f0...">
-                    <div className="max-w-7xl ...">
-                      <div>
-                      <div className="grid grid-...">
-                        <ProductCard name="AULTMORE O..." price={3469000} image="/1.png">
-                          <div className="group bg-[...">
-                            <div>
-                            <div className="p-6 border...">
-                              <h3>
-                              <p className="text-[#c9a...">
-+                               3,469,000
--                               3.469.000
-                              ...
-                        ...
-                ...
-          ...
-        ...
+Expected ',', got 'category'
 
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:12:22.625] Browser ERROR   ./app/gallery/page.tsx:31:5
+Parsing ecmascript source code failed
+  29 |     src: "/upscale-wine-bar-lounge-with-bar-counter-and-wine-.jpg",
+  30 |     title: "g5.webp"
+> 31 |     category: "Karaoke",
+     |     ^^^^^^^^
+  32 |   },
+  33 |   {
+  34 |     id: 5,
+
+Expected ',', got 'category'
+
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:12:44.614] Browser ERROR   ./app/gallery/page.tsx:31:5
+Parsing ecmascript source code failed
+  29 |     src: "/upscale-wine-bar-lounge-with-bar-counter-and-wine-.jpg",
+  30 |     title: "g5.webp"
+> 31 |     category: "Karaoke",
+     |     ^^^^^^^^
+  32 |   },
+  33 |   {
+  34 |     id: 5,
+
+Expected ',', got 'category'
+
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:12:48.614] Browser ERROR   ./app/gallery/page.tsx:31:5
+Parsing ecmascript source code failed
+  29 |     src: "/upscale-wine-bar-lounge-with-bar-counter-and-wine-.jpg",
+  30 |     title: "g5.webp"
+> 31 |     category: "Karaoke",
+     |     ^^^^^^^^
+  32 |   },
+  33 |   {
+  34 |     id: 5,
+
+Expected ',', got 'category'
+
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:12:55.624] Browser ERROR   ./app/gallery/page.tsx:31:5
+Parsing ecmascript source code failed
+  29 |     src: "/upscale-wine-bar-lounge-with-bar-counter-and-wine-.jpg",
+  30 |     title: "g4.webp"
+> 31 |     category: "Karaoke",
+     |     ^^^^^^^^
+  32 |   },
+  33 |   {
+  34 |     id: 5,
+
+Expected ',', got 'category'
+
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:12:58.621] Browser ERROR   ./app/gallery/page.tsx:31:5
+Parsing ecmascript source code failed
+  29 |     src: "/upscale-wine-bar-lounge-with-bar-counter-and-wine-.jpg",
+  30 |     title: "g.webp"
+> 31 |     category: "Karaoke",
+     |     ^^^^^^^^
+  32 |   },
+  33 |   {
+  34 |     id: 5,
+
+Expected ',', got 'category'
+
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:13:01.622] Browser ERROR   ./app/gallery/page.tsx:31:5
+Parsing ecmascript source code failed
+  29 |     src: "/g5.webp",
+  30 |     title: "g.webp"
+> 31 |     category: "Karaoke",
+     |     ^^^^^^^^
+  32 |   },
+  33 |   {
+  34 |     id: 5,
+
+Expected ',', got 'category'
+
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:13:03.626] Browser ERROR   ./app/gallery/page.tsx:31:5
+Parsing ecmascript source code failed
+  29 |     src: "/g4.webp",
+  30 |     title: "g.webp"
+> 31 |     category: "Karaoke",
+     |     ^^^^^^^^
+  32 |   },
+  33 |   {
+  34 |     id: 5,
+
+Expected ',', got 'category'
+
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:13:06.619] Browser ERROR   ./app/gallery/page.tsx:31:5
+Parsing ecmascript source code failed
+  29 |     src: "/g4.webp",
+  30 |     title: "g.webp"
+> 31 |     category: "Karaoke",
+     |     ^^^^^^^^
+  32 |   },
+  33 |   {
+  34 |     id: 5,
+
+Expected ',', got 'category'
+
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:13:07.625] Browser ERROR   ./app/gallery/page.tsx:31:5
+Parsing ecmascript source code failed
+  29 |     src: "/g4.webp",
+  30 |     title: "g.webp"
+> 31 |     category: "Karaoke",
+     |     ^^^^^^^^
+  32 |   },
+  33 |   {
+  34 |     id: 5,
+
+Expected ',', got 'category'
+
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:13:09.628] Browser ERROR   ./app/gallery/page.tsx:31:5
+Parsing ecmascript source code failed
+  29 |     src: "/g4.webp",
+  30 |     title: "g.webp"
+> 31 |     category: "Karaoke",
+     |     ^^^^^^^^
+  32 |   },
+  33 |   {
+  34 |     id: 5,
+
+Expected ',', got 'category'
+
+Import traces:
+  Client Component Browser:
+    ./app/gallery/page.tsx [Client Component Browser]
+    ./app/gallery/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/gallery/page.tsx [Client Component SSR]
+    ./app/gallery/page.tsx [Server Component]
+[00:13:25.177] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122750775}
+[00:13:27.315] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/gallery color: rgb(120, 120, 120) color: inherit {"dp":"/gallery","o":"http://localhost:3000/gallery","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122752921}
+[00:13:28.487] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122754091}
+[00:15:18.482] Server  LOG      ✓ Compiled in 131ms
+[00:15:20.153] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/gallery color: rgb(120, 120, 120) color: inherit {"dp":"/gallery","o":"http://localhost:3000/gallery","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122865758}
+[00:15:23.827] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765122869431}
