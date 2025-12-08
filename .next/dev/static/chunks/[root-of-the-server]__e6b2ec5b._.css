@@ -238,6 +238,7 @@
     --font-weight-normal: 400;
     --font-weight-medium: 500;
     --font-weight-semibold: 600;
+    --font-weight-bold: 700;
     --tracking-tight: -.025em;
     --tracking-wide: .025em;
     --tracking-wider: .05em;
@@ -1575,6 +1576,10 @@
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
+  .grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
   .grid-cols-\[0_1fr\] {
     grid-template-columns: 0 1fr;
   }
@@ -1733,10 +1738,6 @@
 
   .overflow-y-auto {
     overflow-y: auto;
-  }
-
-  .rounded {
-    border-radius: .25rem;
   }
 
   .rounded-\[2px\] {
@@ -2506,8 +2507,8 @@
     font-size: .8rem;
   }
 
-  .text-\[9px\] {
-    font-size: 9px;
+  .text-\[6px\] {
+    font-size: 6px;
   }
 
   .text-\[10px\] {
@@ -2532,6 +2533,11 @@
   .leading-snug {
     --tw-leading: var(--leading-snug);
     line-height: var(--leading-snug);
+  }
+
+  .font-bold {
+    --tw-font-weight: var(--font-weight-bold);
+    font-weight: var(--font-weight-bold);
   }
 
   .font-light {
@@ -2562,11 +2568,6 @@
   .tracking-\[0\.3em\] {
     --tw-tracking: .3em;
     letter-spacing: .3em;
-  }
-
-  .tracking-\[0\.25em\] {
-    --tw-tracking: .25em;
-    letter-spacing: .25em;
   }
 
   .tracking-tight {
@@ -2620,11 +2621,6 @@
 
   .text-\[\#f60700\] {
     color: #f60700;
-  }
-
-  .text-\[\#f60700\]\/60 {
-    color: #f6070099;
-    color: lab(52.5719% 78.1601 68.0394 / .6);
   }
 
   .text-\[\#f60700\]\/70 {
