@@ -1,4 +1,4 @@
-import { MapPin, Phone, Mail } from "lucide-react"
+import { MapPin, Phone, Instagram } from "lucide-react"
 import Link from "next/link"
 import Image from "next/image"
 
@@ -22,11 +22,6 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="#deals" className="hover:text-[#c9a962] transition-colors">
-                  Promotions
-                </Link>
-              </li>
-              <li>
                 <Link href="/gallery" className="hover:text-[#c9a962] transition-colors">
                   Gallery
                 </Link>
@@ -44,16 +39,16 @@ export default function Footer() {
             <h4 className="text-white font-light tracking-wide mb-6">Contact Us</h4>
             <ul className="space-y-4 text-sm font-light">
               <li className="flex items-start gap-3">
-                <MapPin className="w-4 h-4 mt-0.5 text-[#c9a962]" strokeWidth={1.5} />
-                <span>123 Wine Street, City, Country 12345</span>
+                <MapPin className="w-4 h-4 mt-0.5 text-[#f60700]" strokeWidth={1.5} />
+                <span>Jl. Bandengan Sel. No.88, RT.1/RW.2, Penjaringan, Kecamatan Penjaringan, Jkt Utara</span>
               </li>
               <li className="flex items-center gap-3">
-                <Phone className="w-4 h-4 text-[#c9a962]" strokeWidth={1.5} />
-                <span>+62 812 3456 7890</span>
+                <Phone className="w-4 h-4 text-[#f60700]" strokeWidth={1.5} />
+                <span>+62 81770865888</span>
               </li>
               <li className="flex items-center gap-3">
-                <Mail className="w-4 h-4 text-[#c9a962]" strokeWidth={1.5} />
-                <span>info@wineandspirits.com</span>
+                <Instagram className="w-4 h-4 text-[#f60700]" strokeWidth={1.5} />
+                <span>dragonphoenixlounge</span>
               </li>
             </ul>
           </div>
@@ -143,11 +138,11 @@ export default function Footer() {
         <div className="border-t border-[#1f1f1f] mt-12 pt-8 flex flex-col items-center gap-6">
           <Link href="/">
             <Image
-              src="/images/logo-20grand-20asia-20hotel-202.png"
+              src="grandasia.png"
               alt="Grand Asia Hotel"
               width={200}
               height={70}
-              className="h-16 w-auto object-contain"
+              className="h-16 w-auto object-contain rounded-lg"
             />
           </Link>
           <p className="text-sm font-light">&copy; 2025 Grand Asia Hotel. All rights reserved.</p>
