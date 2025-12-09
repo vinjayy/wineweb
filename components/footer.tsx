@@ -1,4 +1,4 @@
-import { MapPin, Phone, Instagram, Mail } from "lucide-react"
+import { MapPin, Phone, Mail } from "lucide-react"
 import Link from "next/link"
 import Image from "next/image"
 
