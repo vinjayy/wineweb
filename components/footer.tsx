@@ -1,4 +1,4 @@
-import { MapPin, Phone, Instagram } from "lucide-react"
+import { MapPin, Phone, Instagram, Mail } from "lucide-react"
 import Link from "next/link"
 import Image from "next/image"
 
@@ -44,11 +44,11 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-[#f60700]" strokeWidth={1.5} />
-                <span>+62 81770865888</span>
+                <span>66601018</span>
               </li>
               <li className="flex items-center gap-3">
-                <Instagram className="w-4 h-4 text-[#f60700]" strokeWidth={1.5} />
-                <span>dragonphoenixlounge</span>
+                <Mail className="w-4 h-4 text-[#f60700]" strokeWidth={1.5} />
+                <span>dragonphoenixsamudra@gmail.com</span>
               </li>
             </ul>
           </div>

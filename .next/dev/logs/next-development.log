@@ -1,60 +1,13 @@
-[00:00:02.619] Server  LOG      ✓ Ready in 1802ms
-[00:00:06.523] Server  LOG      ○ Compiling / ...
-[00:00:09.148] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:09.420] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:09.420] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:09.420] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765242929038}
-[00:02:53.691] Server  ERROR   D:\my-application\wine-product-page\.next\dev\server\chunks\ssr\[root-of-the-server]__3718177f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[00:02:53.694] Server  ERROR    ⨯ ReferenceError: Instagram is not defined
-[00:02:54.361] Browser ERROR   uncaughtError: ReferenceError: Instagram is not defined
-[00:02:56.076] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:56.349] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:02:56.349] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:02:56.350] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765243095920}
-[00:03:04.355] Browser ERROR   ./components/footer.tsx:1:24
-Parsing ecmascript source code failed
-> 1 | import { MapPin, Phone,, Instagram } from "lucide-react"
-    |                        ^
-  2 | import Link from "next/link"
-  3 | import Image from "next/image"
-  4 |
-
-Unexpected token `,`. Expected identifier or string
-
-Import trace:
-  Server Component:
-    ./components/footer.tsx
-    ./app/page.tsx
-[00:03:42.354] Browser ERROR   ./components/footer.tsx:55:1
-Parsing ecmascript source code failed
-  53 | "
-  54 | text-white font-light tracking-wide mb-6
-> 55 | "
-     | ^
-  56 | >
-  57 | Contact Us
-  58 | </
-
-Unterminated string constant
-
-Import trace:
-  Server Component:
-    ./components/footer.tsx
-    ./app/page.tsx
-[00:03:42.811] Server  LOG      ✓ Compiled in 53ms
-[00:03:45.370] Browser ERROR   ./components/footer.tsx:55:1
-Parsing ecmascript source code failed
-  53 | "
-  54 | text-white font-light tracking-wide mb-6
-> 55 | "
-     | ^
-  56 | >
-  57 | Contact Us
-  58 | </
-
-Unterminated string constant
-
-Import trace:
-  Server Component:
-    ./components/footer.tsx
-    ./app/page.tsx
+[00:00:02.263] Server  LOG      ✓ Ready in 1497ms
+[00:01:18.315] Server  LOG      ○ Compiling / ...
+[00:01:19.598] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:19.825] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:19.825] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:01:19.825] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765251811423}
+[00:02:07.464] Server  ERROR   D:\my-application\wine-product-page\.next\dev\server\chunks\ssr\[root-of-the-server]__3718177f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:07.466] Server  ERROR    ⨯ ReferenceError: Mail is not defined
+[00:02:07.613] Browser ERROR   uncaughtError: ReferenceError: Mail is not defined
+[00:02:09.063] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:09.229] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:09.229] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:02:09.229] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765251860819}
